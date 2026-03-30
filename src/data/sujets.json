@@ -1,0 +1,256 @@
+[
+  {
+    "slug": "intelligence-artificielle-revolution-enjeux",
+    "title": "L’Intelligence Artificielle : Révolution Technologique, Enjeux, Usages et Avenir",
+    "description": "Guide complet sur l’intelligence artificielle : définition, fonctionnement, applications concrètes, avantages, risques, enjeux éthiques et impact sur l’avenir de la société.",
+    "image1": {
+      "src": "/images/ia-robot-main.webp",
+      "alt": "Robot humanoïde et intelligence artificielle symbolisant la révolution technologique"
+    },
+    "sections": [
+      {
+        "h2": "Qu’est-ce que l’intelligence artificielle ?",
+        "content": "L’intelligence artificielle, souvent abrégée IA, désigne l’ensemble des technologies capables de simuler des comportements humains tels que l’apprentissage, le raisonnement, la perception ou la prise de décision. Elle repose sur des algorithmes, des modèles mathématiques et de grandes quantités de données. Contrairement aux programmes classiques, l’IA peut évoluer, s’adapter et améliorer ses performances au fil du temps."
+      },
+      {
+        "h2": "Comment fonctionne l’intelligence artificielle",
+        "content": "Le fonctionnement de l’IA repose principalement sur le machine learning et le deep learning. Les algorithmes analysent d’immenses volumes de données afin d’identifier des motifs et de produire des prédictions ou des décisions. Les réseaux de neurones artificiels, inspirés du cerveau humain, sont au cœur des systèmes les plus avancés, notamment pour la reconnaissance d’images, la compréhension du langage ou la génération de contenus."
+      },
+      {
+        "h2": "Les grandes catégories d’intelligence artificielle",
+        "content": "On distingue généralement l’IA faible, conçue pour accomplir une tâche spécifique comme un assistant vocal, et l’IA forte, encore théorique, qui serait capable de raisonner comme un être humain. Aujourd’hui, la majorité des applications reposent sur une IA spécialisée, extrêmement performante dans un domaine précis mais limitée hors de son cadre."
+      },
+      {
+        "h2": "Applications concrètes de l’intelligence artificielle",
+        "content": "L’intelligence artificielle est déjà omniprésente dans notre quotidien. Elle alimente les moteurs de recommandation des plateformes de streaming, améliore la navigation GPS, optimise les résultats des moteurs de recherche et permet la reconnaissance faciale. Dans le secteur médical, elle aide au diagnostic, à l’analyse d’images médicales et à la recherche de nouveaux traitements. Dans l’industrie, elle optimise la production, la maintenance et la logistique."
+      },
+      {
+        "h2": "L’intelligence artificielle dans le monde du travail",
+        "content": "L’IA transforme profondément le marché de l’emploi. Certaines tâches répétitives sont automatisées, tandis que de nouveaux métiers émergent, notamment dans la data, le développement et l’analyse des systèmes intelligents. L’enjeu principal réside dans l’adaptation des compétences et la formation continue afin d’accompagner cette transformation technologique."
+      },
+      {
+        "h2": "Avantages et opportunités de l’intelligence artificielle",
+        "content": "L’intelligence artificielle permet des gains de productivité considérables, une réduction des erreurs humaines et une meilleure prise de décision grâce à l’analyse de données complexes. Elle ouvre également la voie à des innovations majeures dans la recherche scientifique, la médecine personnalisée, la transition énergétique et l’éducation."
+      },
+      {
+        "h2": "Limites et risques de l’intelligence artificielle",
+        "content": "Malgré ses avantages, l’IA présente des limites importantes. Les biais présents dans les données peuvent conduire à des décisions injustes ou discriminatoires. La dépendance excessive aux systèmes automatisés pose des questions de fiabilité et de responsabilité. La sécurité des données et la protection de la vie privée sont également des enjeux majeurs."
+      },
+      {
+        "h2": "Enjeux éthiques et sociétaux de l’IA",
+        "content": "Le développement de l’intelligence artificielle soulève de nombreuses questions éthiques. Qui est responsable en cas d’erreur d’un système autonome ? Comment garantir la transparence des algorithmes ? L’utilisation de l’IA dans la surveillance, la reconnaissance faciale ou les décisions judiciaires nécessite un encadrement strict pour préserver les libertés individuelles."
+      },
+      {
+        "h2": "Intelligence artificielle et créativité",
+        "content": "L’IA est désormais capable de générer des images, de la musique, des textes et même des vidéos. Cette capacité remet en question la notion de créativité et soulève des débats sur le droit d’auteur, la propriété intellectuelle et la place de l’humain dans les processus créatifs."
+      },
+      {
+        "h2": "L’avenir de l’intelligence artificielle",
+        "content": "L’avenir de l’IA s’annonce riche en évolutions. Les recherches portent sur des systèmes plus transparents, plus économes en énergie et mieux alignés avec les valeurs humaines. L’intelligence artificielle pourrait jouer un rôle clé dans la résolution de grands défis mondiaux, comme le changement climatique, la santé globale et la gestion des ressources."
+      },
+      {
+        "h2": "Faut-il avoir peur de l’intelligence artificielle ?",
+        "content": "La peur de l’IA est souvent alimentée par la méconnaissance et la science-fiction. En réalité, l’enjeu n’est pas de craindre la technologie, mais de l’encadrer intelligemment. Une réglementation adaptée, une éducation numérique renforcée et une utilisation responsable permettent de tirer le meilleur parti de l’intelligence artificielle."
+      },
+      {
+        "h2": "FAQ – Intelligence artificielle",
+        "content": "L’intelligence artificielle va-t-elle remplacer les humains ? Elle remplacera certaines tâches, mais créera aussi de nouvelles opportunités. L’IA est-elle dangereuse ? Elle peut l’être si elle est mal utilisée, d’où l’importance de règles claires. Peut-on faire confiance à l’IA ? La confiance dépend de la transparence, de la qualité des données et du contrôle humain."
+      }
+    ]
+  },
+  {
+    "slug": "voyage-japon",
+    "title": "Voyager au Japon : Guide Complet 2026, Itinéraires, Budget, Culture et Conseils",
+    "description": "Guide ultime pour voyager au Japon : itinéraires détaillés, budget, transports, culture, gastronomie, saisons, conseils pratiques et erreurs à éviter pour un séjour réussi.",
+    "image1": {
+      "src": "/images/japon-tokyo.webp",
+      "alt": "Vue panoramique de Tokyo avec le Mont Fuji au coucher du soleil"
+    },
+    "image2": {
+      "src": "/images/japon-temple.webp",
+      "alt": "Temple japonais traditionnel entouré de cerisiers en fleurs au printemps"
+    },
+    "sections": [
+      {
+        "h2": "Pourquoi voyager au Japon est une expérience unique",
+        "content": "Voyager au Japon, c’est découvrir un pays où le respect, l’harmonie et l’innovation coexistent parfaitement. Le Japon séduit par son incroyable diversité : métropoles ultra-modernes, villages traditionnels, montagnes sacrées, plages tropicales et campagnes paisibles. La propreté, la sécurité et l’efficacité des transports rendent le voyage simple, même pour un premier séjour en Asie. Chaque détail du quotidien reflète une culture profondément ancrée dans les traditions, tout en étant tournée vers l’avenir."
+      },
+      {
+        "h2": "Les grandes villes incontournables du Japon",
+        "h3": "Tokyo, Kyoto, Osaka, Hiroshima et Nagoya",
+        "content": "Tokyo est une mégalopole fascinante composée de quartiers aux identités très marquées : Shinjuku et ses gratte-ciel, Shibuya et son célèbre carrefour, Akihabara pour la culture geek, Asakusa pour le Japon traditionnel. Kyoto est le cœur historique du pays avec ses temples, ses sanctuaires shinto et ses jardins zen. Osaka est réputée pour sa gastronomie, son château et son ambiance conviviale. Hiroshima offre une visite chargée d’émotion avec le Parc du Mémorial de la Paix. Nagoya est une ville dynamique souvent sous-estimée, idéale pour découvrir un Japon plus local."
+      },
+      {
+        "h2": "Découvrir le Japon hors des sentiers battus",
+        "content": "Au-delà des grandes villes, le Japon regorge de régions méconnues mais exceptionnelles. Les Alpes japonaises offrent des paysages montagneux spectaculaires et des villages traditionnels comme Shirakawa-go. L’île de Kyushu est réputée pour ses volcans actifs et ses sources chaudes naturelles. Hokkaido séduit par sa nature sauvage et ses hivers enneigés. Okinawa propose une ambiance totalement différente avec ses plages paradisiaques et sa culture unique."
+      },
+      {
+        "h2": "Quand partir au Japon ? Climat et saisons",
+        "content": "Le Japon se visite toute l’année, mais chaque saison offre une expérience différente. Le printemps est très populaire grâce à la floraison des cerisiers, un événement culturel majeur. L’été est animé par de nombreux festivals traditionnels, bien que la chaleur et l’humidité puissent être élevées. L’automne est idéal pour les randonnées et les paysages colorés. L’hiver est parfait pour le ski, les onsen et les paysages enneigés, notamment dans le nord du pays."
+      },
+      {
+        "h2": "Itinéraires recommandés pour un premier voyage au Japon",
+        "content": "Pour un premier séjour de 10 à 14 jours, un itinéraire classique inclut Tokyo, Kyoto et Osaka. Il est possible d’ajouter Hiroshima ou Nara pour enrichir l’expérience. Pour un voyage plus long, intégrer Hokkaido ou Kyushu permet de découvrir une autre facette du Japon. Les voyageurs expérimentés pourront privilégier des itinéraires plus ruraux, axés sur la nature et la culture locale."
+      },
+      {
+        "h2": "Budget voyage au Japon : combien ça coûte ?",
+        "content": "Contrairement aux idées reçues, le Japon n’est pas forcément une destination hors de prix. Les repas peuvent coûter entre 7 et 15 € dans des restaurants locaux. Les transports sont très efficaces mais représentent un poste important du budget. Le JR Pass est souvent rentable pour les longs trajets. Les hébergements vont des auberges économiques aux ryokans traditionnels plus coûteux, offrant une expérience culturelle unique."
+      },
+      {
+        "h2": "Se déplacer au Japon : trains, métro et pass",
+        "content": "Le réseau ferroviaire japonais est reconnu comme l’un des meilleurs au monde. Les trains à grande vitesse Shinkansen relient rapidement les principales villes. Les cartes IC comme Suica ou Pasmo facilitent les déplacements urbains. La ponctualité et la clarté des indications rendent les déplacements simples, même sans parler japonais."
+      },
+      {
+        "h2": "Hébergements au Japon : où dormir ?",
+        "content": "Le Japon propose une grande variété d’hébergements. Les hôtels classiques offrent un confort standard, tandis que les hôtels capsules sont une expérience insolite et économique. Les ryokans permettent de dormir sur des tatamis et de goûter à la cuisine traditionnelle. Les logements chez l’habitant et les auberges de jeunesse sont idéaux pour les budgets serrés."
+      },
+      {
+        "h2": "Culture japonaise et règles de savoir-vivre",
+        "content": "Le respect des règles sociales est fondamental au Japon. Il est important d’enlever ses chaussures à l’intérieur, d’éviter de parler fort dans les transports et de respecter les files d’attente. Les Japonais apprécient les efforts des visiteurs pour comprendre leur culture, même de manière basique."
+      },
+      {
+        "h2": "Gastronomie japonaise : bien plus que des sushis",
+        "content": "La cuisine japonaise est variée et régionale. Les ramen diffèrent selon les villes, les okonomiyaki sont populaires à Osaka et Hiroshima, et les bentos offrent des repas complets à petit prix. La qualité des ingrédients est exceptionnelle, même dans les restaurants les plus simples."
+      },
+      {
+        "h2": "Conseils pratiques avant de partir au Japon",
+        "content": "Avant de partir, il est recommandé de vérifier les formalités d’entrée, de souscrire une assurance voyage et de prévoir un adaptateur électrique. Avoir un peu d’argent liquide est essentiel, car certains commerces n’acceptent pas les cartes bancaires. Une connexion internet via une carte SIM ou un pocket Wi-Fi facilite grandement le séjour."
+      },
+      {
+        "h2": "Erreurs à éviter lors d’un voyage au Japon",
+        "content": "Parmi les erreurs fréquentes : sous-estimer les distances, vouloir trop en faire en peu de temps, négliger les règles de politesse ou voyager sans planification minimale. Prendre le temps de découvrir chaque lieu rend le voyage bien plus agréable."
+      },
+      {
+        "h2": "FAQ – Tout savoir avant de voyager au Japon",
+        "content": "Le Japon est-il sûr pour les voyageurs ? Oui, c’est l’un des pays les plus sûrs au monde. Faut-il parler japonais ? Ce n’est pas obligatoire, mais apprendre quelques mots est apprécié. Peut-on voyager seul au Japon ? Absolument, le pays est idéal pour les voyageurs en solo."
+      }
+    ]
+  },
+  {
+    "slug": "energie-renouvelable",
+    "title": "Énergies Renouvelables : Définition, Types, Avantages, Défis et Avenir de la Transition Énergétique",
+    "description": "Guide complet sur les énergies renouvelables : définition, types, avantages environnementaux et économiques, défis technologiques et rôle clé dans la transition énergétique mondiale.",
+    "image1": {
+      "src": "/images/energie-eolienne.webp",
+      "alt": "Parc éolien produisant de l’énergie renouvelable respectueuse de l’environnement"
+    },
+    "image2": {
+      "src": "/images/energie-solaire.webp",
+      "alt": "Panneaux solaires photovoltaïques produisant de l’électricité verte"
+    },
+    "sections": [
+      {
+        "h2": "Qu’est-ce qu’une énergie renouvelable ?",
+        "content": "Les énergies renouvelables sont des sources d’énergie issues de phénomènes naturels capables de se reconstituer rapidement à l’échelle humaine. Contrairement aux énergies fossiles comme le pétrole, le charbon ou le gaz, elles ne s’épuisent pas et génèrent peu ou pas d’émissions de gaz à effet de serre. Elles constituent un pilier essentiel de la transition énergétique et de la lutte contre le changement climatique."
+      },
+      {
+        "h2": "Pourquoi les énergies renouvelables sont essentielles aujourd’hui",
+        "content": "Face au réchauffement climatique, à la raréfaction des ressources fossiles et à la dépendance énergétique, les énergies renouvelables apparaissent comme une solution durable. Elles permettent de produire de l’électricité, de la chaleur et des carburants tout en limitant l’impact environnemental. Leur développement est devenu une priorité stratégique pour de nombreux pays."
+      },
+      {
+        "h2": "Les principaux types d’énergies renouvelables",
+        "content": "Les énergies renouvelables se déclinent en plusieurs catégories. L’énergie solaire exploite le rayonnement du soleil via des panneaux photovoltaïques ou thermiques. L’énergie éolienne utilise la force du vent pour produire de l’électricité. L’énergie hydraulique repose sur la puissance de l’eau, notamment grâce aux barrages. La biomasse transforme des matières organiques en énergie. La géothermie exploite la chaleur naturelle du sous-sol terrestre."
+      },
+      {
+        "h2": "L’énergie solaire : une ressource abondante",
+        "content": "L’énergie solaire est l’une des sources les plus prometteuses. Elle est disponible partout sur la planète et peut être exploitée à petite ou grande échelle. Les coûts des panneaux solaires ont fortement diminué ces dernières années, rendant cette technologie de plus en plus accessible aux particuliers comme aux entreprises."
+      },
+      {
+        "h2": "L’énergie éolienne : produire grâce au vent",
+        "content": "L’énergie éolienne est aujourd’hui l’une des principales sources d’électricité renouvelable. Les éoliennes terrestres et offshore permettent de produire de grandes quantités d’énergie. Leur intégration dans les paysages et leur acceptabilité sociale restent toutefois des enjeux importants."
+      },
+      {
+        "h2": "L’énergie hydraulique : une technologie mature",
+        "content": "L’hydroélectricité est la plus ancienne des énergies renouvelables modernes. Elle offre une production stable et pilotable, capable de répondre aux pics de demande. Cependant, la construction de barrages peut avoir des impacts écologiques importants, nécessitant une gestion responsable."
+      },
+      {
+        "h2": "La biomasse et la géothermie",
+        "content": "La biomasse permet de valoriser les déchets organiques pour produire de l’énergie, contribuant ainsi à l’économie circulaire. La géothermie exploite la chaleur interne de la Terre pour le chauffage et la production d’électricité. Ces deux sources offrent un fort potentiel local et durable."
+      },
+      {
+        "h2": "Avantages environnementaux des énergies renouvelables",
+        "content": "Les énergies renouvelables réduisent considérablement les émissions de CO2 et la pollution atmosphérique. Elles limitent l’impact sur les écosystèmes à long terme et contribuent à préserver les ressources naturelles. Leur utilisation est essentielle pour atteindre les objectifs climatiques internationaux."
+      },
+      {
+        "h2": "Avantages économiques et sociaux",
+        "content": "Le développement des énergies renouvelables crée de nombreux emplois locaux dans la construction, la maintenance et la recherche. Il renforce l’indépendance énergétique des pays et stabilise les coûts de l’énergie sur le long terme. Pour les consommateurs, elles représentent une opportunité de réduire les factures énergétiques."
+      },
+      {
+        "h2": "Les défis des énergies renouvelables",
+        "content": "Malgré leurs avantages, les énergies renouvelables font face à plusieurs défis. L’intermittence de certaines sources, comme le solaire et l’éolien, nécessite des solutions de stockage efficaces. Les infrastructures doivent être modernisées pour intégrer ces nouvelles productions. L’acceptation sociale et l’impact environnemental local doivent également être pris en compte."
+      },
+      {
+        "h2": "Le rôle du stockage de l’énergie",
+        "content": "Le stockage de l’énergie est un élément clé de la transition énergétique. Batteries, stations de pompage hydraulique et hydrogène vert permettent de stocker l’énergie produite en excès et de la restituer en période de forte demande. Les progrès technologiques dans ce domaine sont déterminants pour l’avenir."
+      },
+      {
+        "h2": "Avenir des énergies renouvelables",
+        "content": "L’avenir des énergies renouvelables est prometteur. Les innovations technologiques, la baisse des coûts et les politiques publiques favorables accélèrent leur déploiement. À long terme, elles pourraient devenir la principale source d’énergie mondiale et transformer profondément nos modes de production et de consommation."
+      },
+      {
+        "h2": "FAQ – Énergies renouvelables",
+        "content": "Les énergies renouvelables peuvent-elles remplacer les énergies fossiles ? À terme, oui, avec un mix énergétique adapté. Sont-elles vraiment écologiques ? Leur impact est bien inférieur aux énergies fossiles. Peut-on produire sa propre énergie ? Oui, notamment grâce au solaire et à l’éolien domestique."
+      }
+    ]
+  },
+  {
+  "slug": "cryptomonnaies-avenir",
+  "title": "Cryptomonnaies : Révolution, Risques, Applications et Futur de la Finance",
+  "description": "Analyse complète et approfondie des cryptomonnaies : définition, fonctionnement, avantages, risques, adoption mondiale, régulation, impact sur l’économie et la société, et perspectives futures.",
+  "image1": { "src": "/images/crypto-bitcoin.webp", "alt": "Pièce de Bitcoin sur fond numérique représentant les cryptomonnaies" },
+  "image2": { "src": "/images/crypto-blockchain.webp", "alt": "Chaîne de blocs blockchain stylisée symbolisant la technologie des cryptomonnaies" },
+  "sections": [
+    {
+      "h2": "Qu’est-ce qu’une cryptomonnaie ?",
+      "content": "Une cryptomonnaie est une monnaie numérique décentralisée utilisant la technologie blockchain pour sécuriser et authentifier les transactions. Contrairement aux monnaies traditionnelles, elles ne dépendent pas d’une banque centrale. Chaque transaction est validée par un réseau d’ordinateurs (nodes), assurant transparence et sécurité. Les cryptomonnaies permettent d’effectuer des paiements rapides, de transférer des fonds à l’international sans intermédiaire et d’investir dans des actifs numériques innovants."
+    },
+    {
+      "h2": "Comment fonctionne la blockchain ?",
+      "content": "La blockchain est un registre public distribué et immuable qui enregistre toutes les transactions effectuées avec une cryptomonnaie. Chaque bloc contient un ensemble de transactions et un hash unique qui le relie au bloc précédent. Ce mécanisme garantit que les données ne peuvent pas être modifiées rétroactivement. Les blockchains peuvent être publiques (Bitcoin, Ethereum) ou privées (entreprises, banques). La blockchain est également utilisée pour les smart contracts, la finance décentralisée (DeFi) et les NFT."
+    },
+    {
+      "h2": "Les principales cryptomonnaies et leurs spécificités",
+      "content": "Il existe des milliers de cryptomonnaies, mais certaines se démarquent :\n- **Bitcoin (BTC)** : première crypto, réserve de valeur numérique, forte sécurité.\n- **Ethereum (ETH)** : plateforme pour smart contracts et applications décentralisées.\n- **Cardano (ADA)** : approche scientifique et sécurité élevée.\n- **Solana (SOL)** : rapidité et faible coût de transaction.\n- **Stablecoins (USDT, USDC)** : cryptos indexées sur des monnaies fiduciaires, moins volatiles.\n- **Altcoins** : cryptos alternatives spécialisées (DeFi, gaming, NFT)."
+    },
+    {
+      "h2": "Avantages des cryptomonnaies",
+      "h3": "Liberté financière, rapidité, innovation",
+      "content": "Les cryptomonnaies offrent :\n- **Autonomie** : possibilité de gérer ses fonds sans banque.\n- **Transactions rapides** : surtout pour les transferts internationaux.\n- **Accessibilité** : ouvertes à tous avec Internet.\n- **Transparence** : chaque transaction est visible sur la blockchain.\n- **Innovation financière** : DeFi, staking, yield farming, smart contracts, NFT."
+    },
+    {
+      "h2": "Risques et limites",
+      "h3": "Volatilité, sécurité et régulation",
+      "content": "Malgré leurs avantages, les cryptomonnaies présentent des risques :\n- **Volatilité extrême** : certains actifs peuvent perdre 50% de leur valeur en quelques jours.\n- **Sécurité** : les erreurs humaines ou le phishing peuvent provoquer des pertes.\n- **Régulation incertaine** : interdictions ou limitations possibles selon les pays.\n- **Fraudes et scams** : ICO frauduleuses, rug pulls, faux wallets.\n- **Impact environnemental** : certaines cryptos consomment beaucoup d’énergie (Proof of Work)."
+    },
+    {
+      "h2": "Comment sécuriser ses cryptomonnaies",
+      "content": "Pour réduire les risques :\n- **Wallets sécurisés** : hardware wallets (Ledger, Trezor) ou software wallets fiables.\n- **Authentification à deux facteurs** : sur plateformes d’échange.\n- **Ne jamais partager ses clés privées**.\n- **Diversifier ses investissements**.\n- **S’informer avant d’investir** sur chaque projet ou token."
+    },
+    {
+      "h2": "Applications concrètes des cryptomonnaies",
+      "content": "Les cryptomonnaies ne servent pas qu’à spéculer :\n- **Paiements** : achats en ligne, transferts internationaux.\n- **Finance décentralisée (DeFi)** : prêts, emprunts et rendements sans banques.\n- **NFT et gaming** : création, vente et échange d’actifs numériques.\n- **Supply chain et traçabilité** : suivi transparent de produits.\n- **Dons et crowdfunding** : financements globaux sans intermédiaires."
+    },
+    {
+      "h2": "Adoption mondiale et régulation",
+      "content": "L’adoption des cryptomonnaies varie selon les pays :\n- **Pays favorables** : El Salvador (BTC légal), Suisse, Singapour.\n- **Pays prudents** : Union Européenne, États-Unis (régulation en cours).\n- **Pays hostiles** : Chine (interdiction totale).\nLes régulations futures influenceront fortement la sécurité, la fiscalité et l’adoption globale."
+    },
+    {
+      "h2": "Cryptomonnaies et économie",
+      "content": "Les cryptos impactent plusieurs secteurs :\n- **Investissements** : nouveaux actifs numériques.\n- **Banques et finance** : adaptation des services financiers.\n- **Entreprises** : acceptation de paiements en cryptos.\n- **Gouvernements** : monnaies numériques de banque centrale (CBDC).\n- **Innovation technologique** : blockchain appliquée aux contrats, assurances et identité numérique."
+    },
+    {
+      "h2": "Perspectives et futur",
+      "content": "Le futur des cryptomonnaies dépendra de :\n- **Innovation technologique** : Proof of Stake, réduction consommation énergétique.\n- **Adoption grand public** : interfaces simples et sécurisées.\n- **Régulation équilibrée** : sécurité + innovation.\n- **Intégration avec l’économie traditionnelle** : banques, paiements, assurances.\n- **Cas d’usage réels** : supply chain, santé, identité, IoT."
+    },
+    {
+      "h2": "Investir dans les cryptomonnaies",
+      "content": "Conseils pour investir intelligemment :\n- Commencer par de petites sommes.\n- Étudier le projet, la communauté et la technologie.\n- Diversifier entre BTC, ETH, altcoins.\n- Ne jamais investir l’argent dont on a besoin.\n- Se former continuellement sur le marché et les tendances."
+    },
+    {
+      "h2": "FAQ – Cryptomonnaies",
+      "content": "Peut-on perdre tout son argent ? Oui, le risque est élevé.\nFaut-il être expert en informatique ? Non, mais comprendre les bases et sécuriser ses wallets est crucial.\nLes cryptos remplaceront-elles les monnaies traditionnelles ? Probablement pas à court terme, mais elles coexisteront comme alternative.\nQuelle crypto acheter ? Bitcoin reste la référence, Ethereum et certains altcoins présentent de l’innovation.\nPeut-on utiliser les cryptos pour les paiements quotidiens ? Oui, de plus en plus de commerçants et services acceptent BTC et stablecoins."
+    }
+  ]
+}
+
+]
