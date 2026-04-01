@@ -58,14 +58,3 @@ npm run build
 ```
 
 Ensuite, pousser sur GitHub puis deployer sur la plateforme cible.
-
-## SEO et backlinks
-
-- URL principale: https://learn.arthurp.fr
-- Ce depot documente le projet public pour renforcer le maillage vers le site principal.
-
-## Securite avant push
-
-- Les fichiers d'environnement (.env*) sont ignores
-- Les fichiers locaux VS Code (.vscode/) sont ignores
-- Verifier qu'aucune cle API ou secret n'est commite avant publication
