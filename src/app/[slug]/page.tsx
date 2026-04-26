@@ -67,12 +67,6 @@ export default async function SujetPage({ params }: { params: { slug: string } }
                 <ReactMarkdown>{section.content}</ReactMarkdown>
               </div>
             </section>
-            {/* Emplacement pub entre sections (après la première section) */}
-            {idx === 0 && (
-              <div className="ad-inpage my-8 flex justify-center">
-                <div className="bg-zinc-100 rounded p-2 text-xs text-zinc-500">[Publicité In-Page 336x280]</div>
-              </div>
-            )}
           </React.Fragment>
         ))}
       </main>
